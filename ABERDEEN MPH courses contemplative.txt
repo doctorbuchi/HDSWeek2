@@ -1,0 +1,59 @@
+A. Compulsory:
+Getting Started at the University of Aberdeen PU5006 (0)
+Applied Statistics PU5017 (15)
+Epidemiology PU5030 (15)
+Public Health in Action PU5552 (15)
+Health Economics PU5032 (15)
+MASTERS RESEARCH PROJECT PU5922 (60)
+
+B. Electives:
+PU5058: INTRODUCTION TO HEALTH DATA SCIENCE (15)
+HEALTH SYSTEMS AND POLICY RESEARCH BU5594 (15)
+Designing Real-World Trials PU5068 (15)
+UNDERSTANDING AND APPLYING REGRESSION MODELS PU5559 (15)
+
+
+TOTAL: 180
+
+EVIDENCE-BASED HEALTH PU5031 (15)
+QUALITATIVE HEALTH RESEARCH PU5529 (15)
+SYSTEMATIC REVIEWING PU5526 (15)
+HEALTH INFORMATICS PU5532 (15)
+
+
+
+
+SUB-TOTAL: 195
+
+PU5547: CHALLENGES IN GLOBAL NUTRITION (15)
+RN5506: SUSTAINABLE DIETS AND GLOBAL FOOD SYSTEMS (15)
+THE LEADERSHIP CHALLENGE BU552X (15)
+PU5549: WOMEN’S HEALTH IN A GLOBAL SETTING (15)
+PU5040: HEALTH, WELL BEING AND BEHAVIOUR CHANGE (15)
+PU5056: KEY CONCEPTS IN GLOBAL HEALTH (15)
+
+
+| Course                                              | Why pick it?                          |
+| --------------------------------------------------- | ------------------------------------- |
+| Designing Real-World Trials PU5068                  | Applied research skills, trial design |
+| Health Informatics PU5532                           | Digital health and data systems       |
+| Health Systems and Policy Research BU5594           | Health systems understanding          |
+| Understanding and Applying Regression Models PU5559 | Stats refresh and modeling skills     |
+| Evidence-Based Health PU5031                        | Critical appraisal skills             |
+| Systematic Reviewing PU5526                         | Research synthesis skills             |
+| Leadership Challenge BU552X                         | Soft skills for managing and leading  |
+
+
+Why this set?
+Covers advanced stats and data (regression models, health informatics)
+
+Covers research design and synthesis (real-world trials, evidence-based health, systematic reviewing)
+
+Includes health system context and leadership
+
+Matches your goals: solid PhD prep + management + applied research
+
+Totals 105 credits elective + 75 compulsory = 180 credits total
+
+
+
